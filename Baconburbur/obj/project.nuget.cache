@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lIj/8DyIWk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\hamburburPluginTemplate-master\\hamburburPluginTemplate-master\\hamburburPluginTemplate\\BaconBurbur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.5.0-beta.2\\bepinex.assemblypublicizer.msbuild.0.5.0-beta.2.nupkg.sha512"
+  ],
+  "logs": []
+}
